@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<img src="assets/img/img.jpeg" width="300" style="border-radius: 3%; display: block;"/>
+<img src="assets/img/img.jpeg" width="300" alt="img" style="border-radius: 3%; display: block;"/>
 
 ![](https://komarev.com/ghpvc/?username=simonemandola&label=Profile_Views&color=1F222E)
 <p>
